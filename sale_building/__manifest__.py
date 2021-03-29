@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Tools for Partner",
+    'name': "Sale for Building",
 
     'summary': """
-        Tools for Partner""",
+        Sale for Building""",
 
     'description': """
-        Tools for Partner
+        Sale for Building
     """,
 
     'author': "Codize",
@@ -19,7 +19,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base', 'sale'],
 
     # always loaded
     'data': [
